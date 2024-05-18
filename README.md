@@ -1,7 +1,8 @@
 
-# Project Name
+# VIRTUMEET
 
-Welcome to Project Name! This project allows you to [brief description of what the project does].
+Welcome to VirtuMeet! This project allows you to do realtime video meetings.
+
 
 ## How to Run
 
